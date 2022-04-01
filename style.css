@@ -1,0 +1,27 @@
+body {
+Background-color: pink;
+color: black;
+Font-family: "courier new", monospace;
+}
+
+h1 {
+Font-family: "georgia", monospace;
+color: yellow;
+text-transform: uppercase;
+font-size: 45
+}
+
+h2 {
+Font-family: "georgia", monospace;
+color: hotpink;
+text-transform: uppercase;
+font-size: 28;
+}
+
+h3 {
+color: white;
+}
+
+a {
+color: hotpink;  
+}
